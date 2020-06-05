@@ -1,5 +1,5 @@
-spring.jpa.database: "POSTGRESQL"
-spring.datasource.platform:  "postgres"
+spring.jpa.database: "Mysql"
+spring.datasource.platform:  "Mysql"
 spring.jpa.show-sql: "false"
 spring.database.driverClassName: "org.postgresql.Driver"
 spring.datasource.url: "jdbc:postgresql://database:5432/eagle_eye_dev"
